@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block title %}
+- Gallery
+{% endblock title %}
+{% block head %}
+
+<h1>"Success isn't always about greatness. It's about consistency.<span> Consistent hard work leads to success.
+        Greatness will come"</span></h1>
+<h2>- Dwayne "The Rock" Johnson</h2>
+{% endblock head %}
+
+{% block body %}
+
+
+<div class="container mt-4">
+    <center>
+        <h1><b>Image Gallery</b></h1>
+    </center><br>
+
+    <div class="row">
+
+        {% for post in posts %}
+
+        <div class="col-md-4">
+
+            <div class="card">
+                <img src="{{post.img.url}}" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">{{post.title}}</h5>
+                    <p class="card-text">Uploaded on: {{post.timeStamp}}</p>
+                </div>
+            </div><br><br>
+
+        </div>
+
+
+
+        {% endfor %}
+
+
+
+
+    </div>
+
+
+
+</div>
+
+
+
+{% endblock body %}
