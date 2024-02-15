@@ -1,6 +1,6 @@
 # Fitness Tracker Application
 
-![Fitness Tracker Logo](path/to/your/logo.png)
+![Screenshot (63)](https://github.com/nidalsj/OneFitness/assets/92546712/f3c8a386-ffc7-47bf-9ae3-5690b950b526)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -35,13 +35,18 @@ Welcome to the Fitness Tracker Application, a web-based platform designed to hel
 
 ## Screenshots
 
-![Sign Up Page](path/to/screenshots/signup.png)
+![Screenshot (64)](https://github.com/nidalsj/OneFitness/assets/92546712/ca7c8476-8c8d-4230-9f2c-d8f69a3f95a0)
 *Caption: Sign up securely to access personalized content.*
 
-![Workout Tracking Page](path/to/screenshots/workout.png)
+![Screenshot (67)](https://github.com/nidalsj/OneFitness/assets/92546712/c44ebf92-ecde-4f85-a7b0-3aca1caeaf1c)
 *Caption: Dynamically track and display workout details.*
 
-<!-- Add more screenshots with captions as needed -->
+![Screenshot (65)](https://github.com/nidalsj/OneFitness/assets/92546712/f97203e4-42bd-40e8-8034-23ff5347700b)
+*Caption: Dynamic Image Gallery Page.*
+
+![Screenshot (68)](https://github.com/nidalsj/OneFitness/assets/92546712/6af7f7dd-32f1-4320-ac1c-d6cff509df62)
+*Caption: Profile Page.*
+
 
 ## Technologies Used
 
