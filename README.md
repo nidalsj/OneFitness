@@ -93,4 +93,4 @@ Enable users to engage in real-time chat with trainers for instant assistance an
 
 ## Contact
 
-For any inquiries, feel free to reach out to me at hellonidalsj@gmail.com
+For any inquiries, feel free to reach out to me at connectnidalsj@gmail.com
